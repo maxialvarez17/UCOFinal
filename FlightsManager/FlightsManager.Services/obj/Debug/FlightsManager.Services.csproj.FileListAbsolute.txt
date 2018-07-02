@@ -1,0 +1,201 @@
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\csc.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\csc.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\csc.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\csi.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\csi.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\csi.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.AppContext.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Console.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csprojResolveAssemblyReference.cache
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csproj.CopyComplete
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\FlightsManager\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csc.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csc.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csc.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csi.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csi.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csi.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.AppContext.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Console.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csprojResolveAssemblyReference.cache
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csproj.CopyComplete
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csprojResolveAssemblyReference.cache
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Services.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csc.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csc.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csc.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csi.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csi.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\csi.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.AppContext.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Console.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\vbc.rsp
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.DataTransferObjects.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Model.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.pdb
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\FlightsManager.Provider.dll.config
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maximiliano\Documents\AgioGlobal\AssessmentSources\Excercise 1\FlightsManager\FlightsManager.Services\obj\Debug\FlightsManager.Services.csproj.CopyComplete

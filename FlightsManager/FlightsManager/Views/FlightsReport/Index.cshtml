@@ -1,0 +1,48 @@
+﻿@model IEnumerable<FlightsManager.DataTransferObjects.Reports.Flights.FlightReportDTO>
+
+@{
+    ViewBag.Title = "Flights Report";
+}
+
+<h2>Flights Report</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.From)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.To)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aircraft)
+        </th>
+        <th>
+            Distance (kms)
+        </th>
+        <th>
+            Fuel (lts)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.From)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.To)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Aircraft)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Distance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fuel)
+        </td>
+    </tr>
+}
+
+</table>

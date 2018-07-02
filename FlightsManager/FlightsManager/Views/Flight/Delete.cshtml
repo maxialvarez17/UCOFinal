@@ -1,0 +1,48 @@
+﻿@model FlightsManager.DataTransferObjects.Entities.Flights.FlightSaveDTO
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Flight</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.AirportFrom, "From")
+        </dt>
+
+        <dd>
+            @Html.DropDownListFor(model => model.AirportFrom, (IEnumerable<SelectListItem>)ViewBag.Airports, htmlAttributes: new { @class = "form-control" })
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.AirportTo, "To")
+        </dt>
+
+        <dd>
+            @Html.DropDownListFor(model => model.AirportFrom, (IEnumerable<SelectListItem>)ViewBag.Airports, htmlAttributes: new { @class = "form-control" })
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.Aircraft, "Aircraft")
+        </dt>
+
+        <dd>
+            @Html.DropDownListFor(model => model.Aircraft, (IEnumerable<SelectListItem>)ViewBag.Aircrafts, htmlAttributes: new { @class = "form-control" })
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
